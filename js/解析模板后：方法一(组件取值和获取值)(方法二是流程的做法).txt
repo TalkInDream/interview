@@ -1,3 +1,1 @@
-    getItems2 = () =>{
-        this.props.history?.push(`/mobile/fna/gatheringinfo`);
-    }
+11111111111

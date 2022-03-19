@@ -135,3 +135,6 @@ function Cat(name){
 
 var cat = new Cat();
 ```
+
+
+4、[JS防抖节流](https://github.com/TalkInDream/interview/tree/master/js/%E5%9F%BA%E7%A1%80/JS防抖节流.md "JS防抖节流")
